@@ -35,6 +35,9 @@ public class MergeChicken : MonoBehaviour
     {
         if (Level < MaxLevel)
         {
+            Debug.Log(PlayerPrefs.GetInt("Achieve0"));
+
+            Debug.Log(PlayerPrefs.GetInt("Achieve0"));
             Init(Level + 1);
         }
         else

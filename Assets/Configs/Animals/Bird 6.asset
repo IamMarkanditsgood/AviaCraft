@@ -12,16 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 6
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: e3051305479084849b4e033417f387aa, type: 3}
-  Name: "Harpy Eagle \u2014 The Jungle\u2019s Winged Powerhouse "
-  Description: "The Harpy Eagle is one of the largest and most powerful birds of
-    prey in the world. Found in the tropical rainforests of Central and South America,
-    it has striking features: massive talons the size of a bear's claws, bold black-and-white
-    plumage, and a fierce crown of feathers atop its head. It truly looks like a
-    mythological creature come to life. Harpy Eagles specialize in hunting monkeys,
-    sloths, and large birds high in the forest canopy. With incredible strength and
-    agility, they can swoop silently through the trees and snatch prey in midair.
-    Their talons are so strong, they can crush bone instantly. Despite their dominance
-    in the sky, Harpy Eagles are rare and threatened by deforestation. As rainforest
-    guardians, they play a crucial role in keeping ecosystems in balance. Mysterious,
-    regal, and awe-inspiring \u2014 the Harpy Eagle is the king of the canopy. "
+  image: {fileID: 21300000, guid: 3f7deb0c897a3c541af0c6bfd78ad99d, type: 3}
+  Name: "Tal. Trust Doesn\u2019t Come Easy"
+  Description: "I don\u2019t like talking about myself. The years after the collapse
+    taught me that silence is safer. The less people know about you, the harder it
+    is to be betrayed, found, used. I survived by being invisible. Not kind. Not
+    brave. Just careful. I wandered the ruins alone. I didn\u2019t help anyone and
+    didn\u2019t get in anyone\u2019s way. Sometimes I found food \u2014 I\u2019d
+    leave a bit behind for those who came after. No words, no thanks. That was my
+    way of staying human without opening up. When I heard about you, I didn\u2019t
+    believe it. Someone was building planes? Flying people out? It sounded too good
+    to be real. But something inside shifted. Maybe I was just tired of being alone.
+    Now I\u2019m on this plane. People around me are smiling. Someone offered me
+    an apple. I didn\u2019t take it \u2014 not yet. But I remember it. Thank you\u2026
+    for not asking questions. For just letting me board. "

@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 1
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: 38f447eaa9caea442a7249e03e7b3287, type: 3}
-  Name: "Secretary Bird \u2014 The Snake Stomper of Africa "
-  Description: "The Secretary Bird is one of the most unusual birds of prey on Earth.
-    Found across the savannas of sub-Saharan Africa, it looks like a majestic eagle
-    perched on stilt-like legs \u2014 blending the power of a raptor with the stride
-    of a stork. Its name comes from the long black feathers on its head, which reminded
-    early observers of quill pens tucked behind a secretary\u2019s ear. What really
-    makes the Secretary Bird famous is its hunting technique: it kills snakes by
-    stomping on them with incredible speed and force. With sharp talons and lightning-fast
-    kicks, it can take down venomous snakes like cobras with ease \u2014 making it
-    a legend among snake hunters. Though it has strong wings, the Secretary Bird
-    prefers to hunt on foot, striding gracefully across open grasslands. It's a symbol
-    of elegance and danger, earning a place as a national emblem in several African
-    countries \u2014 and definitely one of the most striking bird species in the
-    world. "
+  image: {fileID: 21300000, guid: 33a106cb29dda9d4c9b2079b6e86215f, type: 3}
+  Name: Isaac. I Held on to Music
+  Description: "Before the end of the world, I was a street musician. Played guitar
+    in subway stations, sometimes in parks. People tossed coins, sometimes a smile.
+    Sometimes that was enough to feel seen. I called it \"paying for presence.\"
+    When everything collapsed, I was stuck in one of the stations. People were running,
+    hiding, screaming. Me\u2026 I kept playing. Maybe it was fear. Or maybe resistance.
+    Deep down, I didn\u2019t want to vanish quietly. As long as I played \u2014 I
+    was alive. Then the strings ran out. My fingers cracked, the strings snapped,
+    the sound stopped. I found another guitar elsewhere \u2014 old, beat-up, but
+    with a whole soul. With it, I walked through shattered streets, sewers, rooftops,
+    and every night \u2014 I played. Sometimes just for myself. Sometimes for someone
+    who hadn\u2019t given up yet. When your people found me, I didn\u2019t believe
+    it at first. And when I took off in that plane and heard someone laugh for the
+    first time in ages \u2014 I knew: the music wasn\u2019t for nothing. My songs
+    didn\u2019t save the world. But they saved me. And you \u2014 you saved what
+    was left. "

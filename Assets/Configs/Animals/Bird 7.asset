@@ -12,16 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 7
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: 228d585d294d3c74e869d210546764b1, type: 3}
-  Name: "Potoo \u2014 The Living Tree Branch "
-  Description: "The Potoo is one of nature\u2019s greatest masters of disguise. Found
-    across Central and South America, this nocturnal bird spends its days perched
-    motionless on tree stumps or branches, blending in so perfectly that it's nearly
-    impossible to spot. With its mottled gray-brown feathers and stiff posture, it
-    looks exactly like a broken limb. At night, the Potoo comes alive. It hunts insects
-    using its enormous mouth, which opens wider than you\u2019d expect from its sleepy
-    daytime look. Its giant yellow eyes help it see in the dark, and its ghostly,
-    echoing calls give it an eerie presence in the forest. Despite its spooky vibe,
-    the Potoo is harmless and mysterious \u2014 a quiet bird that prefers solitude
-    and shadows. Many people go their whole lives without realizing they've passed
-    right by one. "
+  image: {fileID: 21300000, guid: c3f3e621e6b1a0746b5257590629d8ef, type: 3}
+  Name: Sabrina. I Remembered Their Voices
+  Description: "My name is Sabrina. I used to work as an emergency dispatcher. All
+    I did was answer. \u201C911, what\u2019s your emergency?\u201D At first, you
+    say it calmly. Later, almost on autopilot. But deep down, you still remember
+    the voices. When the world began to collapse, the calls didn\u2019t stop immediately.
+    Even after the central lines went down, some signals still came through. I answered
+    in silence, while the world screamed in chaos around me. One boy \u2014 he called
+    every night. He said, \u201CI just want someone to talk to so it\u2019s not so
+    scary.\u201D I didn\u2019t know where he was, or if he survived. But I answered.
+    Every night. Until the line went silent forever. Later, I wrote things down.
+    Not names \u2014 stories. I still carry a notebook full of sentences, fragments,
+    voices. When I reached your people, I was still holding it. Someone asked, \u201CWhy
+    carry junk?\u201D But it\u2019s not junk. It\u2019s memory. It\u2019s them. Thank
+    you\u2026 for giving me a chance to carry their voices forward. Even if they\u2019re
+    gone. "

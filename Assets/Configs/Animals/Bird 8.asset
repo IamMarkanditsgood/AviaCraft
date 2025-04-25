@@ -12,15 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 8
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: 71c917394b5fc3849bfe668c5a0dfc3a, type: 3}
-  Name: "Tawny Frogmouth \u2014 The Owl That Isn\u2019t "
-  Description: "At first glance, the Tawny Frogmouth looks like an owl \u2014 but
-    it\u2019s not! Native to Australia, this bird belongs to a completely different
-    family and has its own quirky charm. Its name comes from its wide, frog-like
-    beak, which it uses to catch insects and small critters during nighttime hunts.
-    By day, the Tawny Frogmouth transforms into a stick. Seriously \u2014 it stretches
-    its body, closes its eyes, and freezes on tree branches, blending in perfectly
-    with bark. This camouflage is so effective that many predators never notice it
-    at all. These birds are peaceful and a little goofy, often seen in pairs or family
-    groups. Their soft grunts and sleepy expressions have made them beloved in Australia
-    \u2014 they even won the country\u2019s Bird of the Year award in 2021! "
+  image: {fileID: 21300000, guid: b8ee8b7602ee16d45ac2dada767c3a98, type: 3}
+  Name: Denis. I Chose to Walk
+  Description: "My wife and I lived on the edge of the city. A small house, a garden,
+    a wooden fence. When it all began, we didn\u2019t understand the scale. Then
+    it became clear \u2014 this wasn\u2019t temporary. This was the end of the world
+    we knew. We held on for a long time. Together. She cooked, I fixed the roof,
+    caught rainwater, reinforced the fences. We didn\u2019t speak of fear \u2014
+    we just did what we could. One day, she got sick. Not the infection. Just weakness.
+    A cold. No medicine. I stayed. Until the end. I buried her in the garden. Quietly.
+    No words. No cross. Just a stone. I stayed one more week. Then I realized \u2014
+    if I stayed longer, it would be over for me too. And she wouldn\u2019t have wanted
+    that. She always said, \u201CLive while you can. Even if it hurts.\u201D I found
+    your camp by accident. Or maybe not. Maybe she led me. Now I\u2019m on this plane,
+    looking down. And I think: I didn\u2019t betray her memory. I carried it with
+    me. Thank you\u2026 for giving me a place to begin again. "

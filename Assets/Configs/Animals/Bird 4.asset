@@ -12,17 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 4
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: 686719c4f56d9d84a94584e711a56e64, type: 3}
-  Name: "Resplendent Quetzal \u2014 The Emerald Spirit of the Forest "
-  Description: "The Resplendent Quetzal is one of the most breathtaking birds in
-    the world. Found in the cloud forests of Central America, it\u2019s especially
-    famous in Guatemala, where it\u2019s a national symbol and even featured on the
-    currency. Males have brilliant green plumage, a bright red chest, and flowing
-    tail feathers that can be longer than their body. In ancient Mayan and Aztec
-    cultures, the quetzal was seen as a sacred creature representing freedom and
-    the divine. Killing one was forbidden \u2014 instead, its feathers were carefully
-    collected for royal robes and ceremonial headdresses. Quetzals feed mostly on
-    fruit, especially wild avocados, and nest in tree holes. Despite their beauty,
-    they are shy and elusive in the wild, often hiding high among the misty branches.
-    To spot one is a rare and magical experience \u2014 a living jewel in the heart
-    of the rainforest. "
+  image: {fileID: 21300000, guid: 04216296116ac9743a34de1fea5ef284, type: 3}
+  Name: Elena. Flowers from the Past
+  Description: "When I was little, my grandmother taught me to plant flowers. She
+    said even a single sprout can bring life to a place. Back then, I didn\u2019t
+    really get it. The world already seemed alive to me. And then\u2026 it died.
+    For many years, I just walked. Through cities, through camps, through silence.
+    I\u2019m not a hero. I didn\u2019t save anyone. But in my backpack, I always
+    carried a small pouch of seeds. I planted them wherever I could \u2014 near burned
+    houses, in cracks in the pavement, at abandoned stations. Not for food. For memory.
+    People often looked at me strangely. Some laughed. But once, I returned to a
+    place where I\u2019d planted just a few seeds. And daisies were blooming there.
+    Yellow like the sun. And someone had left a jar of water beside them. Now I\u2019m
+    on a plane. The sky outside is still gray, but in my lap is the same pouch. And
+    you know what? I think I\u2019ll plant something again. Because if there\u2019s
+    still ground where something can grow \u2014 there\u2019s still a world worth
+    saving. Thank you\u2026 for giving me the chance to plant hope somewhere new. "

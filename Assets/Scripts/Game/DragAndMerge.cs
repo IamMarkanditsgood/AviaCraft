@@ -35,6 +35,13 @@ public class DragAndMerge : MonoBehaviour
     {
         isDragging = false;
 
+        // ѕерев≥р€Їмо, чи об'Їкт видимий на камер≥
+        if (!IsVisibleToCamera())
+        {
+            transform.position = Vector3.zero; // ѕереносимо в центр сцени
+            return;
+        }
+
         Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, 0.5f);
         foreach (var col in colliders)
         {
@@ -47,5 +54,17 @@ public class DragAndMerge : MonoBehaviour
                 return;
             }
         }
+    }
+
+    // ѕерев≥р€Ї, чи об'Їкт видимий на будь-€к≥й камер≥
+    private bool IsVisibleToCamera()
+    {
+        // ќтримуЇмо позиц≥ю об'Їкта на екран≥
+        Vector3 viewportPosition = Camera.main.WorldToViewportPoint(transform.position);
+
+        // якщо об'Їкт знаходитьс€ за межами [0,1] по X або Y - в≥н не видимий
+        return (viewportPosition.x >= 0 && viewportPosition.x <= 1 &&
+                viewportPosition.y >= 0 && viewportPosition.y <= 1 &&
+                viewportPosition.z > 0); // Z > 0 означаЇ, що об'Їкт перед камерою
     }
 }

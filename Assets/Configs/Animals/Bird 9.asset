@@ -12,15 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 9
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: 10e3ca0e81370e24782c8da715a8f55f, type: 3}
-  Name: "Great Argus \u2014 The Peacock of the Jungle "
-  Description: "The Great Argus is a spectacular pheasant native to the rainforests
-    of Southeast Asia. While its body may seem modest at first glance, the male\u2019s
-    wings are the real stars \u2014 each one stretches over a meter long and is covered
-    in hundreds of \u201Ceye-like\u201D spots, creating one of the most mesmerizing
-    displays in the bird world. During courtship, the male clears a performance space
-    on the forest floor and fans out his wings like a living mural. As he dances
-    and spins, the eyespots shimmer and ripple \u2014 a hypnotic show designed to
-    win a mate. Its name comes from Argus Panoptes, the giant from Greek mythology
-    with a hundred eyes. Fitting, because when the Great Argus performs, it truly
-    feels like the forest is watching. "
+  image: {fileID: 21300000, guid: 414bc9c5dfb1b88448af5611638e09b7, type: 3}
+  Name: Sonya. I Never Asked What I Wanted
+  Description: "I was always needed. At home \u2014 younger brothers. At work \u2014
+    I was a medic. In the camp \u2014 I became the one everyone went to. People got
+    used to the idea that Sonya could handle it. Sonya knew what to do. Sonya didn\u2019t
+    get tired. And honestly, I never complained. Until something inside me grew quiet.
+    I started to forget what I liked. That I used to play piano. That I once dreamed
+    of seeing the ocean. That I was afraid of the dark, but learned to be brave \u2014
+    for others. I became so \u201Cfor someone else,\u201D I forgot who I was. When
+    the evacuation offer came, I said no at first. \u201CThere are others. I\u2019ll
+    wait. I\u2019m useful here.\u201D But a woman I had helped took my hand and said,
+    \u201CNow you\u2019re needed there.\u201D It wasn\u2019t heroism. It was permission.
+    To breathe. Now I\u2019m on the plane. And I don\u2019t know what comes next.
+    But for the first time, I feel like I\u2019m not running from. I\u2019m flying
+    toward. And that\u2019s also a kind of salvation. Thank you\u2026 for saving
+    room for people like me. "

@@ -12,17 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 3
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: 7dee50553bb37ae4c947f5f1804c4a67, type: 3}
-  Name: "Kea \u2014 The Mischievous Mountain Parrot "
-  Description: "The Kea is a highly intelligent alpine parrot that lives in the mountainous
-    regions of New Zealand. With its olive-green feathers and bright orange underwings,
-    it may not look flashy at first glance \u2014 but don\u2019t be fooled. This
-    bird is one of the smartest and most playful species on the planet. Kea are curious
-    by nature and love to explore, problem-solve, and interact with people (sometimes
-    a bit too much). They've been caught unscrewing rooftop bolts, stealing snacks,
-    and even opening trash bins and car doors. In the wild, they use tools, play
-    games, and learn from each other \u2014 making them true feathered tricksters.
-    Despite their fun personalities, Kea are a protected species. Their numbers have
-    declined due to human conflicts and habitat loss. But efforts are underway to
-    protect this cheeky genius of the mountains \u2014 a bird as clever as it is
-    chaotic. "
+  image: {fileID: 21300000, guid: 116ea24191d48884bbad161166037500, type: 3}
+  Name: Max. I'm Not Just a Kid Anymore
+  Description: "I\u2019m 14. When it all started, I was 11. I don\u2019t remember
+    much of the world before \u2014 just fragments: a seagull\u2019s cry, ice cream
+    for breakfast when Dad let me, and Mom kissing the top of my head, even when
+    she was mad. Then everything disappeared. Mom\u2026 vanished. Dad led me through
+    different shelters. He used to say, \u201CYou\u2019re a real pilot, Max. You
+    don\u2019t crash.\u201D I held on to that. Even when he\u2026 stayed behind and
+    I went on. Alone. Since then, I acted like a grown-up. I cooked, hunted rats,
+    hid, helped others. When I first saw the airplane \u2014 real, red, just like
+    the one from a childhood poster \u2014 I didn\u2019t believe it. I thought it
+    was a mirage. But it landed. And they called me inside. I didn\u2019t want to
+    cry. But I did. Now I\u2019m sitting here, holding a torn piece of that old poster
+    in my hand. Thinking of Dad.  He would\u2019ve been proud.  Thank you\u2026 for
+    letting me be a kid again. If only for a moment. "

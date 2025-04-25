@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour
     [SerializeField] private TMP_Text incomeText;
 
     private HashSet<int> unlockedLevels = new();
-    [SerializeField] private GameObject modalPrefab;
     [SerializeField] private Sprite[] chickenSprites;
     public HashSet<int> GetUnlockedLevels() => unlockedLevels;
 
@@ -123,7 +122,7 @@ public class GameManager : MonoBehaviour
 
     public void SpawnChicken(int level, Vector3? position = null)
     {
-        Vector3 spawnPos = position ?? new Vector3(Random.Range(-4f, 4f), Random.Range(-4f, 4f), 0);
+        Vector3 spawnPos = position ?? new Vector3(Random.Range(-10f, 10f), Random.Range(-10f, 10f), 0);
         GameObject newChicken = Instantiate(chickenPrefab, spawnPos, Quaternion.identity);
         var merge = newChicken.GetComponent<MergeChicken>();
         merge.Init(level);
@@ -133,17 +132,39 @@ public class GameManager : MonoBehaviour
         if (!unlockedLevels.Contains(level))
         {
             unlockedLevels.Add(level);
-            if(level != 1 && level != 7)
+            if(level != 1 && level != 11)
             {
                 NewChickenPopup newChickenPopup = (NewChickenPopup) UIManager.Instance.GetPopup(PopupTypes.NewChicken);
                 newChickenPopup.Init(level);
                 UIManager.Instance.ShowPopup(PopupTypes.NewChicken);
             }
-            else if(level == 7)
+            
+        }
+        if (level == 2)
+        {
+            PlayerPrefs.SetInt("Achieve0", 1);
+        }
+        if (level == 11)
+        {
+            Destroy(newChicken);
+            UIManager.Instance.ShowPopup(PopupTypes.MaxChickecn);
+            PlayerPrefs.SetInt("Achieve1", 1);
+            PlayerPrefs.SetInt("Achieve2", 1);
+            PlayerPrefs.SetInt("Achieve3", 1);
+            int peapoles = PlayerPrefs.GetInt("People") + 10;
+            PlayerPrefs.SetInt("People", peapoles);
+            if (PlayerPrefs.GetInt("People") >= 100)
             {
-                Destroy(newChicken);
-                UIManager.Instance.ShowPopup(PopupTypes.MaxChickecn);
-                AddCoins(200);
+                PlayerPrefs.SetInt("Achieve4", 1);
+            }
+            for (int i = 0; i < 10; i++)
+            {
+                string key = "Story" + i;
+                if (!PlayerPrefs.HasKey(key))
+                {
+                    PlayerPrefs.SetInt(key, 1);
+                    return;
+                }
             }
         }
     }

@@ -12,17 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: 75e4ce6371e68004485dbad2ca22a88b, type: 3}
-  Name: "Shoebill \u2014 The Prehistoric Stalker "
-  Description: "The Shoebill, also known as the whalehead or shoebill stork, is a
-    massive bird that lives in the swamps of Central and East Africa. It gets its
-    name from its huge, shoe-shaped bill, which can grow up to 24 cm long and helps
-    it catch slippery prey like lungfish, eels, and even baby crocodiles. Despite
-    its dinosaur-like appearance, the Shoebill is a patient and stealthy hunter.
-    It stands completely still for long periods, waiting for the perfect moment to
-    strike. When it does move, it's fast, precise, and surprisingly silent for such
-    a large bird. Shoebills can reach over 140 cm in height and have wingspans of
-    up to 2.5 meters. They\u2019re mostly solitary, making their nests in remote
-    wetlands. One of their most unusual traits is their bill-clattering greeting
-    sound, which can resemble a machine gun. Mysterious, majestic, and a little intimidating
-    \u2014 the Shoebill is truly one of nature\u2019s most unique birds. "
+  image: {fileID: 21300000, guid: 86fcff00a24862d409bd42269a457dab, type: 3}
+  Name: Maria. Before and After the Light
+  Description: "I used to work as a librarian. A small neighborhood library, the
+    smell of old pages, a clock ticking in the silence \u2014 that was my whole world.
+    People rarely visited, but I knew every face that still loved to read. Especially
+    a boy named Leon. Every time he came in, he borrowed books about airplanes. I
+    used to joke that one day he\u2019d fly away from us \u2014 and who would\u2019ve
+    thought how right that joke would turn out to be. When it all began, first came
+    the noise. Then \u2014 silence. People disappeared, and I was left locked inside
+    the library. Funny how the walls that once protected the books suddenly became
+    my fortress. I stayed hidden there for months, living off vending machine snacks,
+    collecting rainwater, and reading aloud so I wouldn\u2019t forget what a voice
+    sounds like. Then they came \u2014 not the infected. The ones who still breathed.
+    A group of three teenagers. One of them was Leon. He hadn\u2019t forgotten. He
+    came back. We wandered together, hiding, surviving, always searching, until we
+    heard rumors about you. About someone who could fly people to safety. That was
+    our last chance. When I heard the roar of the engine, my heart raced like it
+    hadn\u2019t in years. A plane. A real plane. And I was in it. There was light
+    in the sky again. No novel I ever read could compare to that feeling. Thank you.
+    You didn\u2019t just save me. You saved my memories, my faith \u2014 and maybe
+    even my voice. "

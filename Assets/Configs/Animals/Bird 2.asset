@@ -12,18 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea71242f07137614e913d27bbddefd0c, type: 3}
   m_Name: Bird 2
   m_EditorClassIdentifier: 
-  image: {fileID: 21300000, guid: fc7b8154066862e4292adaa04ab8a860, type: 3}
-  Name: "Hoatzin \u2014 The Leaf-Eating Stinkbird "
-  Description: "The Hoatzin is one of the strangest birds in the world. Native to
-    the Amazon rainforest, it looks like a punk rocker with its spiky crest, blue
-    face, and red eyes. But its most surprising feature isn\u2019t its looks \u2014
-    it\u2019s its diet. The Hoatzin is one of the only birds that eats mostly leaves,
-    and it digests them using a special fermentation process, like cows do. This
-    leafy diet makes the Hoatzin smell pretty bad \u2014 which is why locals often
-    call it the \u201Cstinkbird.\u201D But the weirdness doesn\u2019t stop there:
-    when Hoatzin chicks are born, they have tiny claws on their wings! These claws
-    help them climb through branches and escape predators before they can fly. Hoatzins
-    live in noisy groups near rivers and swamps, and they\u2019re clumsy flyers,
-    often crashing through foliage. Scientists are still puzzled by their evolutionary
-    path \u2014 some even believe they could be a link to ancient bird species. Strange,
-    smelly, and totally unique \u2014 the Hoatzin is a true jungle oddball. "
+  image: {fileID: 21300000, guid: 4ccf3a899bf8fe742a10d4870dd956b1, type: 3}
+  Name: "Nika. I Don\u2019t Hide Anymore"
+  Description: "My name is Nika. Before the apocalypse, I was a teacher. I taught
+    high school biology. For years, I believed I was helping kids understand how
+    the world works. The irony is \u2014 the world turned out much crueler than any
+    textbook. When it all went wrong, I hid. First in my home. Then in the school
+    basement. I locked the door and pretended the walls would protect me. But the
+    truth? I was scared. Not just of the dead. I was scared of losing myself. Then
+    I found a notebook. Someone's \u2014 left behind in class. Inside were doodles,
+    notes, scribbles. One page was a dream: a girl who wanted to become a pilot.
+    I don\u2019t know if any of my students made it, but from that day on, I started
+    writing every day. Not to survive \u2014 but to remember who I am. When your
+    scouts found me, I was still clutching that notebook. Now it\u2019s with me on
+    this plane. And I know \u2014 I\u2019m not hiding anymore. I\u2019m flying forward,
+    to where teaching still matters. Where belief still matters. Thank you for giving
+    me wings. Even if they weren\u2019t mine. "
